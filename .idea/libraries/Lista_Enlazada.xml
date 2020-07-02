@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Lista_Enlazada">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Lista_Enlazada.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
